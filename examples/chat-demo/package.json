@@ -16,10 +16,10 @@
     "@huggingface/jinja": "^0.3.2",
     "@huggingface/transformers": "^3.2.4",
     "@mlc-ai/web-llm": "^0.2.77",
-    "@types/markdown-it": "^14.1.2",
+    "@types/markdown-it": "^14.2.0",
     "katex": "^0.16.20",
     "lucide-react": "^0.473.0",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^15.0.2",
     "posthog-js": "^1.205.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
